@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akuthi :)
 👨‍💻 I am an aspiring software engineer <br/>
-👨‍💻 Embarking on a journey to become a Full Stack Developer with a focus on Java backend. <br/>
+👨‍💻 Embarking on a journey to become a Full Stack Developer. <br/>
 🔭 Studied Physics at the University of the Western Cape, South Africa. <br/> 
 🌠 Astronomy Lover <br/>
 
