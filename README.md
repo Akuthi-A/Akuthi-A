@@ -1,4 +1,5 @@
 ### Hi, I'm Akuthi!
 
-#### I am a software engineering student
+#### I am an aspiring software engineering 👨‍💻
+#### Studied Physics at the University of Western Cape, South Africa.
 
