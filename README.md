@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akuthi :)
-👨‍💻 I am an aspiring software engineer <br/>
+👨‍💻 I am a software developer <br/>
 👨‍💻 Embarking on a journey to become a Full Stack Developer. <br/>
 🔭 Studied Physics at the University of the Western Cape, South Africa. <br/> 
 🌠 Astronomy Lover <br/>
